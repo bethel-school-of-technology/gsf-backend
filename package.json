@@ -1,5 +1,5 @@
 {
-  "name": "martyria",
+  "name": "GSF",
   "version": "1.0.0",
   "description": "BST final project",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "node": "8.12.0"
   },
   "keywords": [],
-  "author": "Morgan Muse, Paul Rase",
+  "author": "Cameron Schilling",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.0",
