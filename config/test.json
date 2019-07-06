@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "",
+  "db": "mongodb://<dbuser>:<dbpassword>@ds247827.mlab.com:47827/gsf-betheltechfinal"
+}
