@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "3025",
-  "db": "mongodb://sgtcameronschilling:4drdakota@ds247827.mlab.com:47827/gsf-betheltechfinal"
+  "db": "mongodb://<dbuser>:<password>@ds247827.mlab.com:47827/gsf-betheltechfinal"
 }
