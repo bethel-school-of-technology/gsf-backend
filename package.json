@@ -23,6 +23,7 @@
     "express-async-errors": "^2.1.0",
     "fawn": "^2.1.5",
     "helmet": "^3.11.0",
+    "heroku": "^7.26.2",
     "joi": "^13.1.0",
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
