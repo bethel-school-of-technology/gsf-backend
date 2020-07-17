@@ -27,7 +27,7 @@
     "joi": "^13.1.0",
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongodb": "^3.3.0-beta2",
     "mongoose": "^5.6.6",
     "nodemon": "^1.18.10",
